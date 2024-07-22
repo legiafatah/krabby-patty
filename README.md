@@ -1,2 +1,2 @@
-# krabby-patty
+# sayangku
 inisiasi temporary repository
